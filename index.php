@@ -7,7 +7,7 @@ include 'header.php';
 
 
   <!--==========================
-    Hero Section
+    Hero Section Deneme
   ============================-->
   <section id="hero">
     <div class="hero-container">
